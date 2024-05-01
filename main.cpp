@@ -1,5 +1,5 @@
 #include "mbed.h"
-#include <cstudio>
+#include <cstdio>
 
 int t1 = 0;
 int t2 = 1;
